@@ -1,0 +1,17 @@
+numpy
+scipy
+ipywidgets
+matplotlib
+pandas
+Seaborn
+statsmodels
+scikit-learn
+pyzmq
+jinja2
+tornado
+nltk
+gensim
+tweepy
+bokeh
+networkx
+requests
